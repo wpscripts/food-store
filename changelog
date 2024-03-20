@@ -1,4 +1,4 @@
-= 1.4.9 - 20-02-2024 =
+= 1.4.9 - 20-03-2024 =
 * New - Shortcodes attributes for product_service_type is available now.
 * New - Added admin settings under each product where admin can set whether the product is available for pickup, delivery or both.
 * Code cleanup
