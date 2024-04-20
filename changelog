@@ -1,3 +1,10 @@
+= 1.4.10 - 20-04-2024 =
+* Fix - issue with recalculate order
+* Fix - Empty service time error
+* New - Added hook for asap service time
+* Freemius SDK updated to 2.7.0
+* Code cleanup
+
 = 1.4.9 - 20-03-2024 =
 * New - Shortcodes attributes for product_service_type is available now.
 * New - Added admin settings under each product where admin can set whether the product is available for pickup, delivery or both.
