@@ -1,3 +1,11 @@
+= 1.5 - 09-06-2024 =
+* New - Added settings for display confirmation message before empty cart
+* New - New template added for cart empty confirmation
+* Enhance - Added service time missing error message when time is not set
+* Fix - Modal overflow issue when edit product clicked from cart
+* Fix - Empty service type issue on checkout page when cookie is deleted
+* Freemius SDK updated to 2.7.2
+
 = 1.4.10 - 20-04-2024 =
 * Fix - issue with recalculate order
 * Fix - Empty service time error
