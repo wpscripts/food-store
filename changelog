@@ -1,3 +1,12 @@
+= 1.5.2 - 26-01-2025
+* Fix - Updated deactivation hook to uninstall plugin if dependeny is not available
+* Freemius SDK updated to 2.10
+* minor code enhancement
+
+= 1.5.1 - 09-08-2024 =
+* Freemius SDK updated to 2.8
+* Minor bug fixes
+
 = 1.5 - 09-06-2024 =
 * New - Added settings for display confirmation message before empty cart
 * New - New template added for cart empty confirmation
