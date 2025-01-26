@@ -1,4 +1,4 @@
-= 1.5.2 - 26-01-2025
+= 1.5.2 - 26-01-2025 =
 * Fix - Updated deactivation hook to uninstall plugin if dependeny is not available
 * Freemius SDK updated to 2.10
 * minor code enhancement
