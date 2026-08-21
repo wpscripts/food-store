@@ -1,3 +1,18 @@
+= 1.5.5 - 21-08-2026 =
+* Fixed issue related to addons not showing in mobile application
+* Added extensions settings page in the admin menu
+* Fixed issue related to checkout when multiple same addons present
+* minor code enhancement
+
+= 1.5.4 - 04-12-2025 =
+* Freemius SDK updated to 2.13
+* Updated WP version tag
+* minor code enhancement
+
+= 1.5.3 - 25-08-2025 =
+* Freemius SDK updated
+* minor code enhancement
+
 = 1.5.2 - 26-01-2025 =
 * Fix - Updated deactivation hook to uninstall plugin if dependeny is not available
 * Freemius SDK updated to 2.10
